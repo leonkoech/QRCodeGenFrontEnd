@@ -1,0 +1,19 @@
+label {
+    /* margin-bottom: 1vh; */
+    font-size: 2.5vh;
+    text-transform: capitalize;
+}
+.top {
+    width: 100%;
+    text-align: center;
+}
+input.text-input {
+    height: 5vh;
+    background-color: transparent;
+    border: none;
+    width: 70vw;
+    margin-top: 2vh;
+    border-bottom: 2px solid #d9dab2;
+    color: #d9dab2;
+    font-size: 1.8vw;
+}

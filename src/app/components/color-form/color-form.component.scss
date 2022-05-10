@@ -1,0 +1,55 @@
+
+.mainContents {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 70vh;
+}
+.bottom {
+    width: 90%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.right-selector {
+    text-align: center;
+}
+.left-selector{
+    text-align: center;
+}
+input#background {
+    height: 30vh;
+    width: 50%;
+    margin-top: 2vh;
+    color: transparent;
+    border: transparent;
+    background-color: transparent;
+}
+input#qrCode{
+    height: 30vh;
+    width: 50%;
+    margin-top: 2vh;
+    color: transparent;
+    border: transparent;
+    background-color: transparent;
+}
+label {
+    /* margin-bottom: 1vh; */
+    font-size: 2.5vh;
+    text-transform: capitalize;
+}
+.top {
+    width: 100%;
+    text-align: center;
+}
+input.text-input {
+    height: 5vh;
+    background-color: transparent;
+    border: none;
+    width: 70vw;
+    margin-top: 2vh;
+    border-bottom: 2px solid #d9dab2;
+    color: #d9dab2;
+    font-size: 1.8vw;
+}

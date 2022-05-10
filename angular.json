@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "QrCode"
+    }
+  },
+  "defaultProject": "QrCode",
+  "cli": {
+    "analytics": false
+  }
 }

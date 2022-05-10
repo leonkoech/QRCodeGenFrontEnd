@@ -1,0 +1,20 @@
+
+button{
+    height: 6vh;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    width: 32vw;
+    font-size: 1.8vh;
+    background-color: #d9dab2;
+    border: transparent;
+    color: #191b1e;
+    font-family: KenyanCoffee; 
+    letter-spacing: 1px;
+}
+button:hover{
+    cursor:pointer;
+    background-color: #b6b695;
+    border: 2px solid #d9dab2;
+}
+
+    
